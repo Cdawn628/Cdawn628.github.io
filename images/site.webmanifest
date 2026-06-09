@@ -1,0 +1,14 @@
+{
+    "name": "Xiao Cai Homepage",
+    "short_name": "Xiao Cai",
+    "icons": [
+       {
+          "src": "homepage-thumbnail-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+       }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "display": "standalone"
+ }
